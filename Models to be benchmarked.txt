@@ -1,0 +1,15 @@
+Marker (@https://github.com/VikParuchuri/marker ),
+ Nougat (@https://github.com/facebookresearch/nougat ) , 
+Docling (@https://github.com/docling-project/docling ), 
+MarkitDown (@https://github.com/microsoft/markitdown ) ,
+ PyMuPDF4LLM (@https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/ ), 
+MinerU(@https://github.com/opendatalab/MinerU ), 
+GOT (@https://github.com/Ucas-HaoranWei/GOT-OCR2.0/tree/main ) , 
+unstructured  (@https://github.com/Unstructured-IO/unstructured ),
+  pypdf (@https://github.com/py-pdf/pypdf ), 
+pymupdf(@https://github.com/pymupdf/PyMuPDF ), 
+ pdfplumber (@https://github.com/jsvine/pdfplumber ) , 
+pdfminer.six (@https://github.com/pdfminer/pdfminer.six ),
+PaddleOCR PP-Structure + PP-FormulaNet-L,
+Small Docling
+Donut
